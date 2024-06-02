@@ -27,5 +27,5 @@
 <p>Below are the screenshots of the model loss plot and Bitcoin price prediction plot:</p>
 
 <!-- Insert screenshots using img tags -->
-<img src="path/to/model_loss_plot.png" alt="Model Loss Plot">
+<img src="https://github.com/CSuryaVenkat/StockPricePrediction/blob/main/model_Loss.png" alt="Model Loss Plot">
 <img src="path/to/bitcoin_price_prediction_plot.png" alt="Bitcoin Price Prediction Plot">
