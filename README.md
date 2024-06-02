@@ -1,9 +1,6 @@
 <h1>Project Overview</h1>
 <p>This project implements a bidirectional Long Short-Term Memory (LSTM) neural network using Keras to perform time series forecasting. The model is designed to predict future values based on sequences of past data.</p>
 
-<h2>Overview</h2>
-<p>Time series forecasting involves predicting future values of a sequence based on previously observed values. LSTM networks, a type of recurrent neural network (RNN), are particularly suited for this task due to their ability to capture long-term dependencies and patterns in sequential data. Bidirectional LSTMs further enhance this capability by processing the input sequence in both forward and backward directions.</p>
-
 <h2>Components</h2>
 <ul>
   <li><strong>Hyperparameters:</strong>
@@ -24,8 +21,6 @@
 
 <p>This implementation provides a robust starting point for time series forecasting using bidirectional LSTMs, allowing you to capture intricate patterns in your data. Adjust the model architecture and hyperparameters based on your specific dataset and forecasting requirements.</p>
 <h2>Results</h2>
-<p>Below are the screenshots of the model loss plot and Bitcoin price prediction plot:</p>
-
 <!-- Insert screenshots using img tags -->
-<img src="https://github.com/CSuryaVenkat/StockPricePrediction/blob/main/model_Loss.png" alt="Model Loss Plot">
-<img src="path/to/bitcoin_price_prediction_plot.png" alt="Bitcoin Price Prediction Plot">
+<img src="https://github.com/CSuryaVenkat/StockPricePrediction/blob/main/model_Loss.png" alt="Model Loss Plot" width="400" height="300">
+<img src="https://github.com/CSuryaVenkat/StockPricePrediction/blob/main/price_prediction.png" alt="Bitcoin Prediction" width="400" height="300">
